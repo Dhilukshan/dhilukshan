@@ -3,6 +3,12 @@
 <!--
 **Dhilukshan/dhilukshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## 🚀 About Me
+
+I am a Cyber Security undergraduate at NSBM Green University with a strong passion for offensive security, ethical hacking, and digital forensics. I enjoy applying my academic knowledge to real-world security challenges through hands-on learning and practical projects.
+
+I have experience in vulnerability assessment, web application security testing, and network analysis using tools such as Burp Suite, Wireshark, Nmap, and Metasploit. I am also proficient in Python and Java and continuously improve my skills through platforms like TryHackMe and Hack The Box.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
